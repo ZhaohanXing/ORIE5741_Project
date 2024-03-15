@@ -1,2 +1,10 @@
 # ORIE5741_Project
- Prediction of Diabetes Project
+
+## Project Name: Prediction of type 2 diabetes in the US: an analysis and application of nationally representative data from National Health and Nutrition Examination Survey
+
+Team Members: Naiwen Ji (nj294), Yuze Qin (yq276), Zhaohan Xing (zx333)
+
+## Project Description
+In out project, the question of interest is whether it is possible to forecast an individual's diabetes status based on socio-demographic details, lifestyle habits, and non-invasive body measurements. Type 2 diabetes, constituting 95% of diabetes instances globally, significantly impacts the U.S. with an estimated 38 million diagnosed cases. It ranks as the eighth leading cause of death in the country, with a substantial portion of individuals with diabetes being unaware of their condition. The prevalence of type 2 diabetes has surged in the past two decades, with a marked increase in cases of prediabetes as well. This form of diabetes not only poses a significant risk for numerous health complications, including major organ failures and amputations but is also linked to heightened risks of various cancers and infections like COVID-19. 
+
+The American Diabetes Association (ADA) in 2022 reported that diabetes incurs an annual cost of approximately $412.9 billion, encompassing both direct medical expenses and indirect costs such as lost productivity. Despite the manageable nature of diabetes, its economic impact through healthcare expenses and insurance premiums is considerable. The healthcare industry, particularly health insurance, plays a critical role in diabetes management, highlighting the importance of an effective prediction model to mitigate economic losses and inform policy decisions. The field of machine learning offers promising avenues for developing such predictive models, as evidenced by its application in cardiovascular disease prediction. Although a universally adopted model for diabetes prediction does not yet exist, preliminary research suggests that machine learning algorithms hold potential for creating accurate diabetes forecasting models, underscoring the importance of this innovative approach.
